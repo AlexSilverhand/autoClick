@@ -1,2 +1,2 @@
 # autoClick
-A small script that clicks on a previous selected point on the screen
+Python script that automates mouse clicks on predefined screen positions using PyAutoGUI
